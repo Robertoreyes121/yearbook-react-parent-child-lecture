@@ -1,5 +1,7 @@
 import React from 'react';
 import './App.css';
+import Photo from './components/SchoolPhoto.js';
+import Info from './components/StudentInfo.js';
 
 function App() {
   return (
